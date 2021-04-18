@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @johood007
+- 👀 I’m interested in ... Web design (+front-end dev)
+- 🌱 I’m currently learning ... Js
+- 📫 How to reach me ... Send Gmail or twitter @xxxsharaf
